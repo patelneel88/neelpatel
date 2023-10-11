@@ -31,7 +31,7 @@ To appear at  Symposium on Discrete Algorithms (SODA 2024)
 Yusuf Kalyaci, Shaddin Dughmi and **Neel Patel**  
 In the proceeding of International Colloquium on Automata Languages and Programming (ICALP 2023)
 
-5. *Delegated Pandora's Box* [[Paper](https://arxiv.org/pdf/2202.10382)] [[Talk](https://www.youtube.com/watch?v=1KRA8vNailA)]
+5. *Delegated Pandora's Box* [[Paper](https://arxiv.org/pdf/2202.10382)] [[Talk](https://www.youtube.com/watch?v=1KRA8vNailA)]       
 Curtis Bechtel, Shaddin Dughmi and **Neel Patel**  
 In the proceeding of the Twenty-Third ACM Conference on Economics and Computation (EC 2022)
 
