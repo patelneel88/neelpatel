@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hey, I am Neel, a CS PhD student in the [USC Theory Group](https://viterbi-web.usc.edu/~cstheory/), where I am very fortunate to be advised by [Shaddin Dughmi](http://viterbi-web.usc.edu/~shaddin/) and [David Kempe](http://david-kempe.com). I am broadly interested in Combinatorial Optimization in the presence of Uncertainty or Incentives, Algorithmic Contract Theory, and Dynamic Graph Algorithms.  I am also passionate about Ethics in AI/ML.
+Hey, I am Neel, a third year CS PhD student in the [USC Theory Group](https://viterbi-web.usc.edu/~cstheory/), where I am very fortunate to be advised by [Shaddin Dughmi](http://viterbi-web.usc.edu/~shaddin/) and [David Kempe](http://david-kempe.com). I am broadly interested in Combinatorial Optimization in the presence of Uncertainty or Incentives, Algorithmic Contract Theory, and Dynamic Graph Algorithms.  I am also passionate about Ethics in AI/ML.
 
 Before starting my Ph.D., I spent wonderful one and a half years at the National University of Singapore as a Research Assistant working with [Yair Zick](https://people.cs.umass.edu/~yzick/) and [Reza Shokri](https://www.comp.nus.edu.sg/~reza/). Before that, I completed my B.Stat at Indian Statistical Institute, Kolkata. 
 
@@ -55,6 +55,8 @@ International Journal of Game Theory 1-34
 10. *Keeping Your Friends Close: Land Allocation with Friends* [[Paper](https://arxiv.org/abs/2003.03558)]   
 Edith Elkind, **Neel Patel**,  Alan Tsang and Yair Zick     
 In the proceeding of the 29th International Joint Conference on Artificial Intelligence (IJCAI 2020)
+
+**Author list is alphabetical unless mentioned.*
 
 ## Teaching
 
