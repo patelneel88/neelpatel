@@ -12,7 +12,7 @@ Hey, I am Neel, a third-year CS PhD student in the [USC Theory Group](https://vi
 
 Before starting my Ph.D., I spent wonderful one and a half years at the National University of Singapore as a Research Assistant working with [Yair Zick](https://people.cs.umass.edu/~yzick/) and [Reza Shokri](https://www.comp.nus.edu.sg/~reza/). Before that, I completed my B.Stat at Indian Statistical Institute, Kolkata. 
 
-You can find my updated CV [here](https://www.dropbox.com/scl/fi/esmwzdar7i2nh054472v9/cv_neel.pdf?rlkey=l15p1f3k70ndrvequllvmntdb&dl=0)
+You can find my updated CV [here](https://www.dropbox.com/scl/fi/kxndnmm5o39cpbg1siu35/Neel_Patel_USC_PhD_CV.pdf?rlkey=1m73q9frgnwzw7n7umofm89vu&dl=0)
 
 ## Publications
 10. *Limitations of Stochastic Selection Problems with Pairwise Independent Priors* [[Paper](https://arxiv.org/abs/2310.05240)]  
@@ -23,7 +23,7 @@ Under Submission
 Shaddin Dughmi,  **Neel Patel**, Aditya Prasad and Ram Deo-Campo Vuong  
 To appear at Symposium on Discrete Algorithms (SODA 2024)  
 
-8. *Combinatorial Stationary Prophet Inequalities* [Upon request]  
+8. *Combinatorial Stationary Prophet Inequalities* [[Paper](https://arxiv.org/abs/2312.08245)] 
 **Neel Patel** and David Wajc   
 To appear at  Symposium on Discrete Algorithms (SODA 2024) 
 
