@@ -28,7 +28,7 @@ Symposium on Discrete Algorithms (SODA 2024)
 Symposium on Discrete Algorithms (SODA 2024)  
 
 (7) *Sparsification of Stochastic Packing Problem* [[Paper](https://arxiv.org/abs/2211.07829)]  
-Yusuf Kalyaci, Shaddin Dughmi and **Neel Patel**  
+Shaddin Dughmi, Yusuf Kalyaci and **Neel Patel**  
 International Colloquium on Automata Languages and Programming (ICALP 2023)
 
 (6) *Delegated Pandora's Box* [[Paper](https://arxiv.org/pdf/2202.10382)] [[Talk](https://www.youtube.com/watch?v=1KRA8vNailA)]       
