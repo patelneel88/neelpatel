@@ -17,7 +17,7 @@ You can find my updated CV [here](https://www.dropbox.com/scl/fi/kxndnmm5o39cpbg
 ## Publications
 (10) *Limitations of Stochastic Selection Problems with Pairwise Independent Priors* [[Paper](https://arxiv.org/abs/2310.05240)]  
 Shaddin Dughmi, Yusuf Kalyaci and **Neel Patel**    
-Under Submission
+Symposium on Theory of Computing (STOC 2024)
 
 (9) *On Supermodular Contracts and Dense Subgraphs* [[Paper](https://arxiv.org/abs/2308.07473)]  
 Shaddin Dughmi,  **Neel Patel**, Aditya Prasad and Ram Deo-Campo Vuong  
