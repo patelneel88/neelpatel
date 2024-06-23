@@ -15,6 +15,10 @@ Before starting my Ph.D., I spent wonderful one and a half years at the National
 You can find my updated CV [here](https://www.dropbox.com/scl/fi/kxndnmm5o39cpbg1siu35/Neel_Patel_USC_PhD_CV.pdf?rlkey=1m73q9frgnwzw7n7umofm89vu&dl=0)
 
 ## Publications
+(11) *Near-Optimal (1 + ε)-Approximate Fully-Dynamic All-Pairs Shortest Paths in Planar Graphs* [Upon Request]
+Arnold Filtser, Arnold Filtser, **Neel Patel** and Maximilian Probst Gutenberg
+Foundations of Computer Science (FOCS 2024)
+
 (10) *Limitations of Stochastic Selection Problems with Pairwise Independent Priors* [[Paper](https://arxiv.org/abs/2310.05240)]  
 Shaddin Dughmi, Yusuf Kalyaci and **Neel Patel**    
 Symposium on Theory of Computing (STOC 2024)
