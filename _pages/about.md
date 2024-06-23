@@ -16,7 +16,7 @@ You can find my updated CV [here](https://www.dropbox.com/scl/fi/kxndnmm5o39cpbg
 
 ## Publications
 (11) *Near-Optimal (1 + ε)-Approximate Fully-Dynamic All-Pairs Shortest Paths in Planar Graphs* [Upon Request]
-Arnold Filtser, Arnold Filtser, **Neel Patel** and Maximilian Probst Gutenberg
+Arnold Filtser, Arnold Filtser, **Neel Patel** and Maximilian Probst Gutenberg 
 Foundations of Computer Science (FOCS 2024)
 
 (10) *Limitations of Stochastic Selection Problems with Pairwise Independent Priors* [[Paper](https://arxiv.org/abs/2310.05240)]  
