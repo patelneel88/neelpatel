@@ -43,8 +43,8 @@ ACM Conference on Economics and Computation (EC 2022)
 **Neel Patel**, Reza Shokri and Yair Zick  
 ACM Conference on Fairness, Accountability, and Transparency (FAccT 2022)
 
-(4) *High Dimensional Explanation for Black-Box Models: Axiomatic Approach* [[Paper](https://dl.acm.org/doi/10.1145/3442188.3445903)]     
-**Neel Patel**, Martin Strobel and Yair Zick
+(4) *High Dimensional Explanation for Black-Box Models: Axiomatic Approach* [[Paper](https://dl.acm.org/doi/10.1145/3442188.3445903)]    
+**Neel Patel**, Martin Strobel and Yair Zick    
 ACM Conference on Fairness, Accountability, and Transparency (FAccT 2021)
 
 (3) *The Price is (Probably) Right: Learning Market Equilibria From Samples* [[Paper](https://www.ifaamas.org/Proceedings/aamas2021/pdfs/p755.pdf)]    
