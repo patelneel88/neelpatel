@@ -8,11 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-Hey, I am Neel, a third-year CS PhD student in the [USC Theory Group](https://viterbi-web.usc.edu/~cstheory/), where I am very fortunate to be advised by [Shaddin Dughmi](http://viterbi-web.usc.edu/~shaddin/) and [David Kempe](http://david-kempe.com). I am broadly interested in Combinatorial Optimization in the presence of Uncertainty or Incentives, Algorithmic Contract Theory and Computational Economics. Recently, I have been also working on problems in designing (fast) Dynamic Algorithms for Graph Problems. I am also interested in designing AI/ML algorithms with the consideration of ethical aspects.
+Hey, I am Neel, a CS PhD student in the [USC Theory Group](https://viterbi-web.usc.edu/~cstheory/), where I am very lucky to be advised by [Shaddin Dughmi](http://viterbi-web.usc.edu/~shaddin/) and [David Kempe](http://david-kempe.com). I was very fortunate to work as a Research Intern at Google Research Mountain View during the Summer of 2024 hosted by [Kshipra Bhawalkar](https://research.google/people/kshiprabhawalkar/?&type=google) in the Market Algorithm's Team. Currently, I am a part-time Student Researcher at Google Research.
+
+I am broadly interested in Combinatorial Optimization in the presence of Uncertainty or Incentives, Algorithmic Contract Theory and Computational Economics. Recently, I have been also working on problems in designing (fast) Dynamic Algorithms for Graph Problems. I am also interested in designing AI/ML algorithms with the consideration of ethical aspects. 
 
 Before starting my Ph.D., I spent wonderful one and a half years at the National University of Singapore as a Research Assistant working with [Yair Zick](https://people.cs.umass.edu/~yzick/) and [Reza Shokri](https://www.comp.nus.edu.sg/~reza/). Before that, I completed my B.Stat at Indian Statistical Institute, Kolkata. 
 
-You can find my updated CV [here](https://www.dropbox.com/scl/fi/kxndnmm5o39cpbg1siu35/Neel_Patel_USC_PhD_CV.pdf?rlkey=1m73q9frgnwzw7n7umofm89vu&dl=0)
+You can find my updated CV [here](https://drive.google.com/file/d/1R_pcOamt3rjmM_EPJbGw-fTObLQNXaN9/view?usp=share_link)
 
 ## Publications
 (11) *Near-Optimal (1 + ε)-Approximate Fully-Dynamic All-Pairs Shortest Paths in Planar Graphs*    
