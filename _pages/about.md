@@ -17,7 +17,7 @@ Before starting my Ph.D., I spent wonderful one and a half years at the National
 You can find my updated CV [here](https://drive.google.com/file/d/1R_pcOamt3rjmM_EPJbGw-fTObLQNXaN9/view?usp=share_link)
 
 ## Publications
-(11) *Near-Optimal (1 + ε)-Approximate Fully-Dynamic All-Pairs Shortest Paths in Planar Graphs* [[Conf. version](https://www.computer.org/csdl/proceedings-article/focs/2024/167400c078/22gF2XyGxRS)][(Full version upon request)]    
+(11) *Near-Optimal (1 + ε)-Approximate Fully-Dynamic All-Pairs Shortest Paths in Planar Graphs* [[Conf. version](https://www.computer.org/csdl/proceedings-article/focs/2024/167400c078/22gF2XyGxRS)] [(Full version upon request)]    
 Arnold Filtser, Gramoz Goranci, **Neel Patel** and Maximilian Probst Gutenberg    
 Foundations of Computer Science (FOCS 2024)
 
