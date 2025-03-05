@@ -17,8 +17,8 @@ Before starting my Ph.D., I spent wonderful one and a half years at the National
 You can find my updated CV [here](https://drive.google.com/file/d/1LSaYkWomUXISNafbliN7Eix36_nQEQ0N/view?usp=drive_link)
 
 ## Publications
-(12) *Equilibria and Learning in Modular Marketplaces*[[Paper](https://arxiv.org/pdf/2502.20346)] 
-Kshipra Bhawalkar, Jeff Dean,  Christopher Liaw,  Aranyak Mehta  and **Neel Patel** 
+(12) *Equilibria and Learning in Modular Marketplaces* [[Paper](https://arxiv.org/pdf/2502.20346)]    
+Kshipra Bhawalkar, Jeff Dean,  Christopher Liaw,  Aranyak Mehta  and **Neel Patel**   
 Under Submission
 
 (11) *Near-Optimal (1 + ε)-Approximate Fully-Dynamic All-Pairs Shortest Paths in Planar Graphs* [[Conf. version](https://www.computer.org/csdl/proceedings-article/focs/2024/167400c078/22gF2XyGxRS)] [(Full version upon request)]    
