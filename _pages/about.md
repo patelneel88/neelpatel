@@ -12,7 +12,7 @@ Hey, I am Neel, a CS PhD student in the [USC Theory Group](https://viterbi-web.u
 
 I am broadly interested in Combinatorial Optimization in the presence of Uncertainty or Incentives, Algorithmic Contract Theory and Computational Economics. Recently, I have been also working on problems in designing (fast) Dynamic Algorithms for Graph Problems. I am also interested in designing AI/ML algorithms with the consideration of ethical aspects. 
 
-Before starting my Ph.D., I spent wonderful one and a half years at the National University of Singapore as a Research Assistant working with [Yair Zick](https://people.cs.umass.edu/~yzick/) and [Reza Shokri](https://www.comp.nus.edu.sg/~reza/) working on Explainable and Private ML/AI. Before that, I completed my B.Stat at Indian Statistical Institute, Kolkata. 
+Before starting my Ph.D., I spent wonderful one and a half years at the National University of Singapore as a Research Assistant working on Explainable and Private ML/AI with [Yair Zick](https://people.cs.umass.edu/~yzick/) and [Reza Shokri](https://www.comp.nus.edu.sg/~reza/). Before that, I completed my B.Stat at Indian Statistical Institute, Kolkata. 
 
 You can find my updated CV [here](https://drive.google.com/file/d/1LSaYkWomUXISNafbliN7Eix36_nQEQ0N/view?usp=drive_link)
 
