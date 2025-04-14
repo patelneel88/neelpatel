@@ -17,7 +17,11 @@ Before starting my Ph.D., I spent wonderful one and a half years at the National
 You can find my updated CV [here](https://drive.google.com/file/d/1LSaYkWomUXISNafbliN7Eix36_nQEQ0N/view?usp=drive_link)
 
 ## Publications
-(12) *Equilibria and Learning in Modular Marketplaces* [[Paper](https://arxiv.org/pdf/2502.20346)]    
+(13) *Online Matroid Embeddings and the Complexity of the Binary Matroid Secretary Problem*   
+Andres Cristi, Paul Dutting, Robert Kleinberg, Renato Paes Leme and **Neel Patel**  
+Under Submission
+
+(12) *Equilibria and Learning in Modular Marketplaces* [[Paper](https://arxiv.org/pdf/2502.20346)]   
 Kshipra Bhawalkar, Jeff Dean,  Christopher Liaw,  Aranyak Mehta  and **Neel Patel**   
 Under Submission
 
