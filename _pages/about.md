@@ -8,22 +8,26 @@ redirect_from:
   - /about.html
 ---
 
-Hey, I am Neel, a CS PhD student in the [USC Theory Group](https://viterbi-web.usc.edu/~cstheory/), where I am very lucky to be advised by [Shaddin Dughmi](http://viterbi-web.usc.edu/~shaddin/) and [David Kempe](http://david-kempe.com). I was very fortunate to work as a Research Intern at Google Research Mountain View during the Summer and Fall of 2024 hosted by [Kshipra Bhawalkar](https://research.google/people/kshiprabhawalkar/?&type=google) in the Market Algorithms Team. Currently, I am a part-time Student Researcher at Google Research hosted by [Renato Leme Peas](https://www.renatoppl.com/) in the OMEGA team.
+Hey, I am Neel, a CS PhD student in the [USC Theory Group](https://viterbi-web.usc.edu/~cstheory/), where I am very lucky to be advised by [Shaddin Dughmi](http://viterbi-web.usc.edu/~shaddin/) and [David Kempe](http://david-kempe.com). I was very fortunate to work as a Research Intern at Google Research Mountain View during the Summer and Fall of 2024, hosted by [Kshipra Bhawalkar](https://research.google/people/kshiprabhawalkar/?&type=google) in the Market Algorithms Team. Currently, I am a part-time Student Researcher at Google Research hosted by [Renato Leme Peas](https://www.renatoppl.com/) in the OMEGA team.
 
 I am broadly interested in Combinatorial Optimization in the presence of Uncertainty or Incentives, Algorithmic Contract Theory and Computational Economics. Recently, I have been also working on problems in designing (fast) Dynamic Algorithms for Graph Problems. I am also interested in designing AI/ML algorithms with the consideration of ethical aspects. 
 
-Before starting my Ph.D., I spent wonderful one and a half years at the National University of Singapore as a Research Assistant working on Explainable and Private ML/AI with [Yair Zick](https://people.cs.umass.edu/~yzick/) and [Reza Shokri](https://www.comp.nus.edu.sg/~reza/). Before that, I completed my B.Stat at Indian Statistical Institute, Kolkata. 
+Before starting my Ph.D., I spent a wonderful one and a half years at the National University of Singapore as a Research Assistant working on Explainable and Private ML/AI with [Yair Zick](https://people.cs.umass.edu/~yzick/) and [Reza Shokri](https://www.comp.nus.edu.sg/~reza/). Before that, I completed my B.Stat at the Indian Statistical Institute, Kolkata. 
 
 You can find my updated CV [here](https://drive.google.com/file/d/1LSaYkWomUXISNafbliN7Eix36_nQEQ0N/view?usp=drive_link)
 
 ## Publications
-(13) *Online Matroid Embeddings and the Complexity of the Binary Matroid Secretary Problem*   
-Andres Cristi, Paul Dutting, Robert Kleinberg, Renato Paes Leme and **Neel Patel**  
+(14) *Online Matroid Embeddings and the Complexity of the Binary Matroid Secretary Problem*   
+Andres Cristi, Paul Duetting, Robert Kleinberg, Renato Paes Leme and **Neel Patel**  
 Under Submission
 
-(12) *Equilibria and Learning in Modular Marketplaces* [[Paper](https://arxiv.org/pdf/2502.20346)]   
+(13) *Equilibria and Learning in Modular Marketplaces* [[Paper](https://arxiv.org/pdf/2502.20346)]   
 Kshipra Bhawalkar, Jeff Dean,  Christopher Liaw,  Aranyak Mehta  and **Neel Patel**   
 Under Submission
+
+(12) *Fully Dynamic Euclidean Bi-Chromatic Matching in Sublinear Update Times*  
+Gramoz Goranci, Peter Kiss, **Neel Patel**, Martin Seybold,  Eva Szilagyi and David Zheng   
+International Conference on Machine Learning (ICML 2025) **[Spotlight]**
 
 (11) *Near-Optimal (1 + ε)-Approximate Fully-Dynamic All-Pairs Shortest Paths in Planar Graphs* [[Conf. version](https://www.computer.org/csdl/proceedings-article/focs/2024/167400c078/22gF2XyGxRS)] [(Full version upon request)]    
 Arnold Filtser, Gramoz Goranci, **Neel Patel** and Maximilian Probst Gutenberg    
