@@ -16,7 +16,9 @@ Before starting my Ph.D., I spent a wonderful one and a half years at the Nation
 
 You can find my updated CV [here](https://drive.google.com/file/d/1LSaYkWomUXISNafbliN7Eix36_nQEQ0N/view?usp=drive_link)
 
-## Publications
+## Publications 
+*Author list is alphabetical unless mentioned.*   
+
 (14) *Online Matroid Embeddings and the Complexity of the Binary Matroid Secretary Problem*   
 Andres Cristi, Paul Duetting, Robert Kleinberg, Renato Paes Leme and **Neel Patel**  
 Under Submission
@@ -73,7 +75,7 @@ International Journal of Game Theory 1-34
 Edith Elkind, **Neel Patel**,  Alan Tsang and Yair Zick     
 International Joint Conference on Artificial Intelligence **(IJCAI 2020)**
 
-**Author list is alphabetical unless mentioned.*
+
 
 ## Teaching
 
