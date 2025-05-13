@@ -23,7 +23,7 @@ Under Submission
 
 (13) *Equilibria and Learning in Modular Marketplaces* [[Paper](https://arxiv.org/pdf/2502.20346)]   
 Kshipra Bhawalkar, Jeff Dean,  Christopher Liaw,  Aranyak Mehta  and **Neel Patel**   
-Under Submission
+ACM Conference on Economics and Computation (EC 2025)  
 
 (12) *Fully Dynamic Euclidean Bi-Chromatic Matching in Sublinear Update Times*  
 Gramoz Goranci, Peter Kiss, **Neel Patel**, Martin Seybold,  Eva Szilagyi and David Zheng   
