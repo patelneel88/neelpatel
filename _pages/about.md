@@ -23,47 +23,47 @@ Under Submission
 
 (13) *Equilibria and Learning in Modular Marketplaces* [[Paper](https://arxiv.org/pdf/2502.20346)]   
 Kshipra Bhawalkar, Jeff Dean,  Christopher Liaw,  Aranyak Mehta  and **Neel Patel**   
-ACM Conference on Economics and Computation (EC 2025)  
+ACM Conference on Economics and Computation **(EC 2025)**
 
 (12) *Fully Dynamic Euclidean Bi-Chromatic Matching in Sublinear Update Times*  
 Gramoz Goranci, Peter Kiss, **Neel Patel**, Martin Seybold,  Eva Szilagyi and David Zheng   
-International Conference on Machine Learning (ICML 2025) **[Spotlight]**
+International Conference on Machine Learning **(ICML 2025)**  **(Spotlight)**
 
 (11) *Near-Optimal (1 + ε)-Approximate Fully-Dynamic All-Pairs Shortest Paths in Planar Graphs* [[Conf. version](https://www.computer.org/csdl/proceedings-article/focs/2024/167400c078/22gF2XyGxRS)] [(Full version upon request)]    
 Arnold Filtser, Gramoz Goranci, **Neel Patel** and Maximilian Probst Gutenberg    
-Foundations of Computer Science (FOCS 2024)
+Foundations of Computer Science **(FOCS 2024)**
 
 (10) *Limitations of Stochastic Selection Problems with Pairwise Independent Priors* [[Paper](https://arxiv.org/abs/2310.05240)]  
 Shaddin Dughmi, Yusuf Kalyaci and **Neel Patel**    
-Symposium on Theory of Computing (STOC 2024)
+Symposium on Theory of Computing **(STOC 2024)**
 
 (9) *On Supermodular Contracts and Dense Subgraphs* [[Paper](https://arxiv.org/abs/2308.07473)]  
 Shaddin Dughmi,  **Neel Patel**, Aditya Prasad and Ram Deo-Campo Vuong  
-Symposium on Discrete Algorithms (SODA 2024)
+Symposium on Discrete Algorithms **(SODA 2024)**
 
 (8) *Combinatorial Stationary Prophet Inequalities* [[Paper](https://arxiv.org/abs/2312.08245)]  
 **Neel Patel**, and David Wajc  
-Symposium on Discrete Algorithms (SODA 2024)  
+Symposium on Discrete Algorithms **(SODA 2024)** 
 
 (7) *Sparsification of Stochastic Packing Problem* [[Paper](https://arxiv.org/abs/2211.07829)]  
 Shaddin Dughmi, Yusuf Kalyaci and **Neel Patel**  
-International Colloquium on Automata Languages and Programming (ICALP 2023)
+International Colloquium on Automata Languages and Programming **(ICALP 2023)**
 
 (6) *Delegated Pandora's Box* [[Paper](https://arxiv.org/pdf/2202.10382)] [[Talk](https://www.youtube.com/watch?v=1KRA8vNailA)]       
 Curtis Bechtel, Shaddin Dughmi and **Neel Patel**  
-ACM Conference on Economics and Computation (EC 2022)
+ACM Conference on Economics and Computation **(EC 2022)**
 
 (5) *Model Explanations with Differential Privacy* [[Paper](https://dl.acm.org/doi/10.1145/3531146.3533235)]  
 **Neel Patel**, Reza Shokri and Yair Zick  
-ACM Conference on Fairness, Accountability, and Transparency (FAccT 2022)
+ACM Conference on Fairness, Accountability, and Transparency **(FAccT 2022)**
 
 (4) *High Dimensional Explanation for Black-Box Models: Axiomatic Approach* [[Paper](https://dl.acm.org/doi/10.1145/3442188.3445903)]    
 **Neel Patel**, Martin Strobel and Yair Zick    
-ACM Conference on Fairness, Accountability, and Transparency (FAccT 2021)
+ACM Conference on Fairness, Accountability, and Transparency **(FAccT 2021)**
 
 (3) *The Price is (Probably) Right: Learning Market Equilibria From Samples* [[Paper](https://www.ifaamas.org/Proceedings/aamas2021/pdfs/p755.pdf)]    
 Omer Lev, **Neel Patel**, Vignesh Viswanathan and Yair Zick    
-International Conference on Autonomous Agents and Multiagent Systems (AAMAS 2021)
+International Conference on Autonomous Agents and Multiagent Systems **(AAMAS 2021)**
 
 (2) *Discrete Richman-bidding scoring games* [[Paper](https://arxiv.org/abs/2003.05635)]   
 Urban Larsson, **Neel Patel**, Ravi Kant Rai   
@@ -71,7 +71,7 @@ International Journal of Game Theory 1-34
 
 (1) *Keeping Your Friends Close: Land Allocation with Friends* [[Paper](https://arxiv.org/abs/2003.03558)]   
 Edith Elkind, **Neel Patel**,  Alan Tsang and Yair Zick     
-International Joint Conference on Artificial Intelligence (IJCAI 2020)
+International Joint Conference on Artificial Intelligence **(IJCAI 2020)**
 
 **Author list is alphabetical unless mentioned.*
 
