@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hey, I am Neel, a CS PhD student in the [USC Theory Group](https://viterbi-web.usc.edu/~cstheory/), where I am very lucky to be advised by [Shaddin Dughmi](http://viterbi-web.usc.edu/~shaddin/) and [David Kempe](http://david-kempe.com). I was very fortunate to work as a Research Intern at Google Research Mountain View during the Summer and Fall of 2024, hosted by [Kshipra Bhawalkar](https://research.google/people/kshiprabhawalkar/?&type=google) in the Market Algorithms Team. Currently, I am a part-time Student Researcher at Google Research hosted by [Renato Leme Peas](https://www.renatoppl.com/) in the OMEGA team.
+Hey, I am Neel, a CS PhD student in the [USC Theory Group](https://viterbi-web.usc.edu/~cstheory/), where I am very lucky to be advised by [Shaddin Dughmi](http://viterbi-web.usc.edu/~shaddin/) and [David Kempe](http://david-kempe.com). I was very fortunate to work as a Research Intern at Google Research Mountain View during the Summer and Fall of 2024, hosted by [Kshipra Bhawalkar](https://research.google/people/kshiprabhawalkar/?&type=google) in the Market Algorithms Team. Currently, I am a Student Researcher at Google Research hosted by [Renato Leme Peas](https://www.renatoppl.com/) in the OMEGA team.
 
 I am broadly interested in Combinatorial Optimization in the presence of Uncertainty or Incentives, Algorithmic Contract Theory and Computational Economics. Recently, I have been also working on problems in designing (fast) Dynamic Algorithms for Graph Problems. I am also interested in designing AI/ML algorithms with the consideration of ethical aspects. 
 
