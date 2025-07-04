@@ -29,7 +29,7 @@ ACM Conference on Economics and Computation **(EC 2025)**
 
 (12) *Fully Dynamic Euclidean Bi-Chromatic Matching in Sublinear Update Times*  
 Gramoz Goranci, Peter Kiss, **Neel Patel**, Martin Seybold,  Eva Szilagyi and David Zheng   
-International Conference on Machine Learning **(ICML 2025)**  **(Spotlight)**
+International Conference on Machine Learning **(ICML 2025)**  **(Oral)**
 
 (11) *Near-Optimal (1 + ε)-Approximate Fully-Dynamic All-Pairs Shortest Paths in Planar Graphs* [[Conf. version](https://www.computer.org/csdl/proceedings-article/focs/2024/167400c078/22gF2XyGxRS)] [(Full version upon request)]    
 Arnold Filtser, Gramoz Goranci, **Neel Patel** and Maximilian Probst Gutenberg    
