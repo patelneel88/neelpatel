@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hey, I am Neel, currently a post-doctoral researcher at EPFL hosted by [Ola Svensson](https://scholar.google.com/citations?user=Nc2RiF4AAAAJ&hl=en) and [Andres Cristi](https://sites.google.com/view/andres-cristi). I completed my PhD in Computer Science from the [USC Theory Group](https://viterbi-web.usc.edu/~cstheory/), supervised by [Shaddin Dughmi](http://viterbi-web.usc.edu/~shaddin/). During my PhD, I was fortunate to work as a Research Intern at Google Research during the Summer and Fall of 2024 in the Market Algorithms Team (hosted by [Kshipra Bhawalkar](https://research.google/people/kshiprabhawalkar/?&type=google)) and during Spring and Summer of 2025 in the OMEGA team (hosted by [Renato Leme Peas](https://www.renatoppl.com/)).
+Hey, I am Neel, currently a post-doctoral researcher at EPFL hosted by [Ola Svensson](https://scholar.google.com/citations?user=Nc2RiF4AAAAJ&hl=en) and [Andres Cristi](https://sites.google.com/view/andres-cristi). I completed my PhD in Computer Science from the [USC Theory Group](https://viterbi-web.usc.edu/~cstheory/), supervised by [Shaddin Dughmi](http://viterbi-web.usc.edu/~shaddin/). During my PhD, I was fortunate to work as a Research Intern at Google Research during the Summer and Fall of 2024 in the Market Algorithms Team (hosted by [Kshipra Bhawalkar](https://research.google/people/kshiprabhawalkar/?&type=google)) and during Spring and Summer of 2025 in the OMEGA team (hosted by [Renato Paes Leme](https://www.renatoppl.com/)).
 
 I am broadly interested in Combinatorial Optimization in the presence of Uncertainty or Incentives, Computational Economics, and designing (fast) Dynamic Algorithms for Graph Problems. Recently, I have been very interested in systematic inference time scaling for LLMs/GenAI to improve thinking capabilities and data selection/data mixture optimization for pre-training large models. 
 
@@ -17,9 +17,13 @@ Before starting my Ph.D., I spent a wonderful one and a half years at the Nation
 You can find my updated CV [here](https://drive.google.com/file/d/1LSaYkWomUXISNafbliN7Eix36_nQEQ0N/view?usp=drive_link)
 
 ## Publications 
-*Author list is alphabetical unless mentioned.*   
+*Author list is alphabetical unless mentioned.*  
 
-(14) *Online Matroid Embeddings and the Complexity of the Binary Matroid Secretary Problem*   
+(15) *Graphic Matroid Secretary without the Graph*  
+Paul Duetting, Renato Paes Leme and **Neel Patel**  
+Under Submission
+
+(14) *Online Matroid Embeddings* [[Paper](https://arxiv.org/pdf/2407.10316)]  
 Andres Cristi, Paul Duetting, Robert Kleinberg, Renato Paes Leme and **Neel Patel**  
 Under Submission
 
