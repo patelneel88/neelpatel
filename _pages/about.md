@@ -20,12 +20,12 @@ You can find my updated CV [here](https://drive.google.com/file/d/1LSaYkWomUXISN
 *Author list is alphabetical unless mentioned.*  
 
 (17) *DAISY: Downstream-Aware Data Mixing Strategy with Shapley Interaction*   
-Zeman Li, **Neel Patel**, Yuan Deng, Jennifer Rogers Brennan, Meisam Razaviyayn and Vahab Mirrokni   
+Zeman Li*, **Neel Patel***, Yuan Deng, Jennifer Rogers Brennan, Meisam Razaviyayn and Vahab Mirrokni (contribution order, * equal contribution)  
 Under Submission
 
 (16) *Less is More: Convergence Benefits of Fewer Data Weight Updates over Longer
 Horizon*   
-Rudrajit Das, **Neel Patel**, Meisam Razaviyayn and Vahab Mirrokni  
+Rudrajit Das, **Neel Patel**, Meisam Razaviyayn and Vahab Mirrokni  (contribution order)  
 Under Submission
 
 (15) *Graphic Matroid Secretary without the Graph*  
