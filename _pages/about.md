@@ -44,11 +44,11 @@ ACM Conference on Economics and Computation **(EC 2025)**
 Gramoz Goranci, Peter Kiss, **Neel Patel**, Martin Seybold,  Eva Szilagyi and David Zheng   
 International Conference on Machine Learning **(ICML 2025)**  **(Oral)**
 
-(11) *Near-Optimal (1 + ε)-Approximate Fully-Dynamic All-Pairs Shortest Paths in Planar Graphs* [[Conf. version](https://www.computer.org/csdl/proceedings-article/focs/2024/167400c078/22gF2XyGxRS)] [(Full version upon request)]    
+(11) *Near-Optimal (1 + ε)-Approximate Fully-Dynamic All-Pairs Shortest Paths in Planar Graphs* [[Paper](https://www.computer.org/csdl/proceedings-article/focs/2024/167400c078/22gF2XyGxRS)] [[Talk @ FOCS](https://www.youtube.com/watch?v=WxYlljXK6Jw)]   
 Arnold Filtser, Gramoz Goranci, **Neel Patel** and Maximilian Probst Gutenberg    
 Foundations of Computer Science **(FOCS 2024)**
 
-(10) *Limitations of Stochastic Selection Problems with Pairwise Independent Priors* [[Paper](https://arxiv.org/abs/2310.05240)]  
+(10) *Limitations of Stochastic Selection Problems with Pairwise Independent Priors* [[Paper](https://arxiv.org/abs/2310.05240)] [[Talk @ Google Research](https://www.youtube.com/watch?v=Zn79K-4C_Bs)]  
 Shaddin Dughmi, Yusuf Kalyaci and **Neel Patel**    
 Symposium on Theory of Computing **(STOC 2024)**
 
@@ -64,7 +64,7 @@ Symposium on Discrete Algorithms **(SODA 2024)**
 Shaddin Dughmi, Yusuf Kalyaci and **Neel Patel**  
 International Colloquium on Automata Languages and Programming **(ICALP 2023)**
 
-(6) *Delegated Pandora's Box* [[Paper](https://arxiv.org/pdf/2202.10382)] [[Talk](https://www.youtube.com/watch?v=1KRA8vNailA)]       
+(6) *Delegated Pandora's Box* [[Paper](https://arxiv.org/pdf/2202.10382)] [[Talk @ EC](https://www.youtube.com/watch?v=1KRA8vNailA)]       
 Curtis Bechtel, Shaddin Dughmi and **Neel Patel**  
 ACM Conference on Economics and Computation **(EC 2022)**
 
