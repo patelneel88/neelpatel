@@ -40,7 +40,7 @@ Under Submission
 Kshipra Bhawalkar, Jeff Dean,  Christopher Liaw,  Aranyak Mehta  and **Neel Patel**   
 ACM Conference on Economics and Computation **(EC 2025)**
 
-(12) *Fully Dynamic Euclidean Bi-Chromatic Matching in Sublinear Update Times*  
+(12) *Fully Dynamic Euclidean Bi-Chromatic Matching in Sublinear Update Times* [[Paper](https://arxiv.org/pdf/2505.09010)]  
 Gramoz Goranci, Peter Kiss, **Neel Patel**, Martin Seybold,  Eva Szilagyi and David Zheng   
 International Conference on Machine Learning **(ICML 2025)**  **(Oral)**
 
