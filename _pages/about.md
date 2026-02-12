@@ -19,6 +19,10 @@ You can find my updated CV [here](https://drive.google.com/file/d/1LSaYkWomUXISN
 ## Publications 
 *Author list is alphabetical unless mentioned.*  
 
+(18) *Planar Distance Emulators for Faster Dynamic Approximate Maximum Flow in Planar Graphs*   
+Arnold Filtser, Gramoz Goranci, Ali Momeni, **Neel Patel** and Maximilian Probst Gutenberg   
+Under Submission
+
 (17) *DAISY: Downstream-Aware Data Mixing Strategy with Shapley Interaction*   
 Zeman Li *, **Neel Patel** *, Yuan Deng, Jennifer Rogers Brennan, Meisam Razaviyayn and Vahab Mirrokni (contribution order, * equal contribution)  
 Under Submission
