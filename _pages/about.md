@@ -29,13 +29,13 @@ Under Submission
 Zeman Li *, **Neel Patel** *, Yuan Deng, Jennifer Rogers Brennan, Meisam Razaviyayn and Vahab Mirrokni (contribution order, * equal contribution)  
 Under Submission
 
-(16) *Less is More: Convergence Benefits of Fewer Data Weight Updates over Longer
-Horizon*   
-Rudrajit Das, **Neel Patel**, Meisam Razaviyayn and Vahab Mirrokni  (contribution order)  
+(16) *Graphic Matroid Secretary without the Graph*  
+Paul Duetting, Renato Paes Leme and **Neel Patel**  
 Under Submission
 
-(15) *Graphic Matroid Secretary without the Graph*  
-Paul Duetting, Renato Paes Leme and **Neel Patel**  
+(15) *Less is More: Convergence Benefits of Fewer Data Weight Updates over Longer
+Horizon* [[Paper](https://arxiv.org/pdf/2602.19510v1)]    
+Rudrajit Das, **Neel Patel**, Meisam Razaviyayn and Vahab Mirrokni  (contribution order)  
 Under Submission
 
 (14) *Online Matroid Embeddings* [[Paper](https://arxiv.org/pdf/2407.10316)]  
