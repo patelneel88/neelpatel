@@ -12,7 +12,6 @@ Hey, I am Neel, currently a post-doctoral researcher at EPFL hosted by [Ola Sven
 
 I am broadly interested in Combinatorial Optimization in the presence of Uncertainty or Incentives, Computational Economics, and designing (fast) Dynamic Algorithms for Graph Problems. Recently, I have been very interested in systematic inference time scaling for LLMs/GenAI to improve thinking capabilities and data selection/data mixture optimization for pre-training large models. 
 
-Before starting my Ph.D., I spent a wonderful one and a half years at the National University of Singapore as a Research Assistant working on Explainable and Private ML/AI with [Yair Zick](https://people.cs.umass.edu/~yzick/) and [Reza Shokri](https://www.comp.nus.edu.sg/~reza/). Before that, I completed my B.Stat at the Indian Statistical Institute, Kolkata. 
 
 **NEWS:** I am joining Google Research Zurich as a Research Scientist from April 2026. 
 
