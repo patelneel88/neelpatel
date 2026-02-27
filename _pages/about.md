@@ -8,12 +8,12 @@ redirect_from:
   - /about.html
 ---
 
-Hey, I am Neel, currently a post-doctoral researcher at EPFL hosted by [Ola Svensson](https://scholar.google.com/citations?user=Nc2RiF4AAAAJ&hl=en) and [Andres Cristi](https://sites.google.com/view/andres-cristi). I completed my PhD in Computer Science from the [USC Theory Group](https://viterbi-web.usc.edu/~cstheory/), supervised by [Shaddin Dughmi](http://viterbi-web.usc.edu/~shaddin/). During my PhD, I worked as a Research Intern at Google Research during the Summer and Fall of 2024 in the Market Algorithms Team (hosted by [Kshipra Bhawalkar](https://research.google/people/kshiprabhawalkar/?&type=google)) and during Spring and Summer of 2025 in the OMEGA team (hosted by [Renato Paes Leme](https://www.renatoppl.com/)).
+Hey, I am Neel, currently a *postdoc* researcher at EPFL hosted by [Ola Svensson](https://scholar.google.com/citations?user=Nc2RiF4AAAAJ&hl=en) and [Andres Cristi](https://sites.google.com/view/andres-cristi). I completed my PhD in Computer Science from the [USC Theory Group](https://viterbi-web.usc.edu/~cstheory/), supervised by [Shaddin Dughmi](http://viterbi-web.usc.edu/~shaddin/). During my PhD, I worked as a Research Intern at Google Research during the Summer and Fall of 2024 in the Market Algorithms Team (hosted by [Kshipra Bhawalkar](https://research.google/people/kshiprabhawalkar/?&type=google)) and during Spring and Summer of 2025 in the OMEGA team (hosted by [Renato Paes Leme](https://www.renatoppl.com/)).
 
 I am broadly interested in Combinatorial Optimization in the presence of Uncertainty or Incentives, Computational Economics, and designing (fast) Dynamic Algorithms for Graph Problems. Recently, I have been very interested in systematic inference time scaling for LLMs/GenAI to improve thinking capabilities and data selection/data mixture optimization for pre-training large models. 
 
 
-**NEWS:** I am joining Google Research Zurich as a Research Scientist from April 2026. 
+**NEWS:** I am joining *Google Research* in Zurich as a *Research Scientist* from April 2026. 
 
 
 
